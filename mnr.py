@@ -6,3 +6,7 @@ print("malathinarender reddy")
 print("malathi reddy")
 print("malathinarender reddy")
 
+print("malathi reddy")
+print("malathinarender reddy")
+print("malathi reddy")
+print("malathinarender reddy")
